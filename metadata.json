@@ -1,0 +1,6 @@
+{
+  "name": "Scorer's Mindset",
+  "description": "Mental training and performance conditioning platform designed to build unshakeable confidence, next-play focus, and clutch execution for athletes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
